@@ -1,0 +1,6 @@
+{
+  "name": "DGU IndustryBridge",
+  "description": "A project marketplace connecting DBS Global University (DGU) student teams with SMEs in Selaqui and Dehradun for structured, paid short-term business projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
